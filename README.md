@@ -6,7 +6,7 @@
 
 This is a command-line application that dynamically creates an HTML file containing a list of employees and their respective contact information.
 
-    -The user must first enter {node app.js} to initialize the app.
+    -The user must first enter {node index.js} to initialize the app.
     
     -The user is given a prompt asking for the name of their manager.
       -A series of prompts are given asking for the manager's ID, email, and office number.
