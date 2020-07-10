@@ -4,7 +4,7 @@
 
 ## Description 
 
-This is a command-line application that dynamically creates and HTML file containing a list of employees and their respective contact information.
+This is a command-line application that dynamically creates an HTML file containing a list of employees and their respective contact information.
 
 ## Table of Contents
 
