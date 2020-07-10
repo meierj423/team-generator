@@ -17,6 +17,8 @@ This is a command-line application that dynamically creates an HTML file contain
     -If the user chooses 'Engineer', a series of prompts appear asking for their name, ID, email, and GitHub username.
     -If the user chooses 'Intern', a series of prompts appear asking for their name, ID, email, and school.
     -If the user chooses 'I don't want to add any more team members', a complete team.html file is dynamically added to the output directory.
+    
+Watch a demo of the app here : https://youtu.be/mVSRFWIUU9Y
 
 ## Table of Contents
 
