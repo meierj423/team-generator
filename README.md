@@ -9,7 +9,8 @@ This is a command-line application that dynamically creates an HTML file contain
     -The user must first enter {node app.js} to initialize the app.
     -The user is given a prompt asking for the name of their manager.
       -A series of prompts are given asking for the manager's ID, email, and office number.
-    -After the user enters all the information for their manager, they are given a choice whether they would like to add an engineer or intern      teammate or cease adding teammates.
+    -After the user enters all the information for their manager, they are given a choice whether they would like to add an engineer or intern
+    teammate or cease adding teammates.
     -If the user chooses 'Engineer', a series of prompts appear asking for their name, ID, email, and GitHub username.
     -If the user chooses 'Intern', a series of prompts appear asking for their name, ID, email, and school.
     -If the user chooses 'I don't want to add any more team members', a complete team.html file is dynamically added to the output directory.
